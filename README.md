@@ -1,7 +1,7 @@
 ## ConstructivIQ
 # Material Similarity Project
 
-This project aims to calculate similarities between materials based on their descriptions and predict similarity scores for test pairs.
+This assignment aims to calculate similarities between materials based on their descriptions and predict similarity scores for test pairs.
 
 ## Table of Contents
 1. [Data Preparation](#data-preparation)
